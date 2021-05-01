@@ -1,0 +1,5 @@
+F:\سنة 3\dss\Version_1.exe
+F:\سنة 3\dss\Version_1.dll
+F:\سنة 3\dss\Version_1.deps.json
+F:\سنة 3\dss\Version_1.runtimeconfig.json
+F:\سنة 3\dss\Version_1.pdb

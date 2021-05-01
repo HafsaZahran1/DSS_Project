@@ -1,0 +1,13 @@
+F:\سنة 3\dss\Version_1\Version_1\bin\Debug\netcoreapp3.1\Version_1.exe
+F:\سنة 3\dss\Version_1\Version_1\bin\Debug\netcoreapp3.1\Version_1.deps.json
+F:\سنة 3\dss\Version_1\Version_1\bin\Debug\netcoreapp3.1\Version_1.runtimeconfig.json
+F:\سنة 3\dss\Version_1\Version_1\bin\Debug\netcoreapp3.1\Version_1.runtimeconfig.dev.json
+F:\سنة 3\dss\Version_1\Version_1\bin\Debug\netcoreapp3.1\Version_1.dll
+F:\سنة 3\dss\Version_1\Version_1\bin\Debug\netcoreapp3.1\Version_1.pdb
+F:\سنة 3\dss\Version_1\Version_1\obj\Debug\netcoreapp3.1\Version_1.csprojAssemblyReference.cache
+F:\سنة 3\dss\Version_1\Version_1\obj\Debug\netcoreapp3.1\Version_1.AssemblyInfoInputs.cache
+F:\سنة 3\dss\Version_1\Version_1\obj\Debug\netcoreapp3.1\Version_1.AssemblyInfo.cs
+F:\سنة 3\dss\Version_1\Version_1\obj\Debug\netcoreapp3.1\Version_1.csproj.CoreCompileInputs.cache
+F:\سنة 3\dss\Version_1\Version_1\obj\Debug\netcoreapp3.1\Version_1.dll
+F:\سنة 3\dss\Version_1\Version_1\obj\Debug\netcoreapp3.1\Version_1.pdb
+F:\سنة 3\dss\Version_1\Version_1\obj\Debug\netcoreapp3.1\Version_1.genruntimeconfig.cache
